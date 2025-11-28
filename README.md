@@ -3,7 +3,7 @@
 This project explores IMDb movie data using Python and pandas. It analyzes lead actors and review patterns, then identifies critic and audience favorites.
 
 ## 📁 Project structure
-- `DS-in-Python-Movie-Assignment.ipynb` (or your notebook’s actual name)
+- `DS-in-Python-Movie-Assignment.ipynb` 
 - `README.md`
 
 ## 🚀 Features
